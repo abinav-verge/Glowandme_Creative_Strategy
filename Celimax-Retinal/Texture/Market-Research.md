@@ -23,6 +23,22 @@ Insight: The emotional wound runs deeper than current skin condition. Past acne 
 - "I'm so unhappy with my big pores. I feel that everyday they become bigger." Insight: The perception that pores are growing daily reveals catastrophizing thinking. She watches her skin obsessively, and every new perceived worsening amplifies her distress disproportionately.
 - "It's really affecting my confidence" Insight: Confidence — the downstream consequence of skin issues — is the true pain point beneath the surface-level skin complaint. The pores aren't just an aesthetic issue; they're actively degrading her quality of life.
 - "I have skin practically identical to yours, so I'll recommend what's worked for me... my face used to look similar to yours when my moisture barrier was damaged." Insight: Other people projecting their own history onto her skin reveals how universal this struggle is — and how it forms an instant social bond. This is a community of people who recognize each other's pain in a photograph.
+- "I feel extremely vulnerable posting this, but I'm really self-conscious about my skin and need help."
+Insight: The act of posting is itself a painful threshold moment — they've reached a level of distress that overrides the fear of judgment. This is not vanity; it's genuine suffering that has built to a breaking point.
+- "large pores ruining my confidence"
+Insight: CORE INSIGHT. The word "ruining" is extreme — it signals that this person doesn't see their pores as a minor flaw but as something actively destroying a core part of their identity and daily experience.
+- "large pores/texture problems/deep scars/pigmentation/rosacea…10 year skin journey…feeling hopeless"
+Insight: CORE INSIGHT. Ten years of struggle compressed into one title. The word "hopeless" after a decade of effort reveals total depletion — they've fought long and hard and feel they have nothing to show for it. This is not impatience; it's exhaustion.
+- "I've always been grossed out by large pores, is there anything I can do or is it a lost cause"
+Insight: The phrase "grossed out" is visceral — they've internalized disgust toward their own face. This is a deeply body-negative emotional state that goes far beyond aesthetic preference.
+- "I don't know if an improved skin care routine will help or if I was just unlucky to be born with large pores."
+Insight: The framing of being "unlucky" reveals a sense of unfairness — that they are suffering from something they didn't choose and can't control, which intensifies the frustration.
+- "I wake up daily with new clogs and im so scared. Never had this before and it doesn't go."
+Insight: The word "scared" attached to skin texture reveals the anxiety spiral these people live in — not just cosmetic concern but genuine fear. Every morning brings fresh evidence of a problem they cannot solve.
+- "I'm sure i could really invest in an amazing moisturizer…any suggestions? really insecure about my pores and texture. depressing really"
+Insight: The word "depressing" is not hyperbole. Combined with a decade-long journey, this suggests real psychological weight — a daily mood impact that follows them from the mirror into their lives.
+- "just have no clue how long I'll be waiting before I can get an appointment. Just wondered if there were any products or methods I could try in the mean time!"
+Insight: The desperation to find something — anything — to do while waiting reveals how uncomfortable sitting with this problem feels. They cannot be passive. The problem demands action even when action is unavailable.
 
 ## Day-to-Day Struggles
 - "I will put my makeup on, and it will seem decent, then I will catch a glimpse of my reflection over by a window and my skin will look like the surface of Mars. You can't confidently go without makeup, yet if you try to go full coverage, you resemble a grapefruit that desperately wishes to be human."
@@ -42,6 +58,20 @@ Insight: Day-to-day life involves constant comparison, both to her past self and
 - "The texture is super rough almost like moisturizer can't penetrate it. It's really unlike anything I've ever felt." Insight: When her skin feels impenetrable — like nothing is working on a sensory level — it creates a unique kind of helplessness. She can feel the problem but can't find a solution that can even reach it.
 - "bathroom lighting isn't helping either" Insight: Even lighting has become an enemy. She structures her self-perception and emotional state around the specific angle and light in which she examines herself — a daily ritual of self-scrutiny that keeps the wound fresh.
 - "social media has really distorted my perception of myself" Insight: She knows the comparison game is rigged, yet she continues to play it every day. This daily consumption of unrealistic skin imagery is a chronic low-grade stressor that resets her baseline expectations upward in ways that are impossible to satisfy.
+- "my bathroom lighting isn't helping either…I feel so hopeless"
+Insight: CORE INSIGHT. Bathroom lighting is a recurring villain in these posts. These people are their own harshest inspectors — they examine themselves at maximum proximity under brutal lighting and then carry that image with them all day.
+- "Something about your own face and your own skin is just so easy to dissect and obsess over. it's like low hanging fruit, i can't help but inspect and judge myself."
+Insight: CORE INSIGHT. This person has named the mechanism perfectly — self-inspection becomes compulsive. The mirror becomes a trap they keep walking into. The daily struggle isn't just the pores; it's the inability to stop looking.
+- "I have large pores too and have to constantly remind myself that NOBODY is looking at my face as close as I look at my own face."
+Insight: They know the rational truth. They repeat it to themselves like a mantra. And yet the emotional reality overrides logic every single time they look in the mirror. This is the core daily battle — reason vs. feeling.
+- "i've also been obsessed with my skin and perfectionism since a kid, i remember my mom telling me to get out of the mirror but i never listened. honestly thinking i might have a huge case of body dysmorphia."
+Insight: For a significant portion of this avatar, the skin obsession has roots in childhood and may have crossed into body dysmorphia territory. This means the problem isn't just skin — it's a pattern of perception that skincare alone cannot fix.
+- "I have large pores too I've always struggled with my skin since elementary school"
+Insight: The timeline here matters enormously. "Since elementary school" means this person has never known life without this insecurity. It is foundational to how they see themselves — not a new problem to solve but an old wound that keeps reopening.
+- "I makes foundation always look cakey"
+Insight: Large pores create a cascading practical problem — they can't even use makeup as a coping tool without the problem becoming worse. The solution amplifies the problem, which deepens the sense of being trapped.
+- "I don't really have a for sure solution, but I bought a dermapen and absolutely love it."
+Insight: The daily struggle is so persistent that people turn to semi-medical home devices. The willingness to needle one's own face at home reveals how desperate and self-reliant this avatar has become after failed conventional approaches.
 
 ## Victories
 - "I fixed my large pores with Niacinamide serum... It fixed my pores like in a few days."
@@ -63,6 +93,18 @@ Insight: Post-microneedling recovery language reveals what she truly wants — n
 - "Microneedling is the OG! I now have more than 50% improvement in my skin, and more than 70% scars are faded." Insight: Quantified results — 50% and 70% improvement — give this avatar something to hold onto. Percentages transform abstract hope into measurable progress. This is the language of someone who has tracked their journey obsessively, which mirrors how the avatar thinks.
 - "UPDATE: my skin has improved massively after ditching the cleansing balm and using a cotton pad to apply my toner and exfoliator rather than using my hands." Insight: The fact that such a small change produced a massive improvement reveals how this avatar is often one simple adjustment away from a breakthrough — not a complete overhaul. This also validates the audience's instinct that something specific is causing the problem.
 - "Tretinoin...I know it's not Korean, please honest to God I saw results the FIRST time I used it. I couldn't believe my eyes." Insight: The incredulous tone — "I couldn't believe my eyes" — captures the emotional release of finally finding something that works after sustained failure. This is the language of relief and vindication, not just satisfaction.
+- "Not OP but I went on a massive pore shrinking side quest a few years ago: Cleansed with cerave, used the bha from Paula's choice, niacinamide from the ordinary, and tretunoin. After about 3 months of obsessive use my pores finally shrank."
+Insight: The phrase "massive pore shrinking side quest" and "obsessive use" reveal the emotional investment behind this win. Three months of obsession finally paid off. The victory is real, but so is the price — sustained, disciplined effort over time.
+- "Now people always compliment my skin and say it's 'poreless'"
+Insight: The emotional payoff of this victory is enormous — not just clearer skin but social recognition. Others now see what they always wanted others to see. This is the dream outcome made real, and it validates the entire journey.
+- "I noticed that changing my pillow cases to satin instead of cotton reduced pores for me."
+Insight: Small environmental changes creating real results gives people a sense of agency. After feeling helpless, discovering that something simple worked — and worked consistently — is deeply empowering.
+- "I had the same thing. I use cereve face wash with benzoyl peroxide in it. There's the Panoxyl face wash that I hear works amazing. It really isn't the pore size it just looks congested. Now my face is oh so smooth."
+Insight: Reframing the problem — from "pore size" to "congestion" — unlocked a solution. The victory here is as much cognitive as cosmetic. Finding the right frame gave them the right fix.
+- "My skin has improved tremendously since then I think it was just a phase during treatment. Just keep it as hydrated as possible and ride it out; it will eventually get better!"
+Insight: Endurance as a victory. The relief in "it eventually gets better" is palpable. For someone in the middle of a skin crisis, surviving the bad phase and coming out the other side feels like a genuine triumph.
+- "UPDATE: my skin has improved massively after ditching the cleansing balm and using a cotton pad to apply my toner and exfoliator rather than using my hands."
+Insight: A tiny change — cotton pad vs. hands — produced massive results. This win matters because it was accidental and simple. It gives others hope that the solution might be hiding in plain sight.
 
 ## Failures
 - "I use it every day and have been doing for years 🥲"
@@ -86,6 +128,20 @@ Insight: Even cult-favorite, community-recommended products have betrayed her. E
 - "I assumed exfoliating would help. Well I went overboard and added a bunch of products and then a 2% bha toner. The next day my forehead literally looked like a burn victim." Insight: The reflex to "do more" when frustrated is this avatar's most common self-sabotage. She amplifies her routine in desperation and ends up destroying her barrier — then has to start over. This cycle of overload, damage, and repair is a defining failure pattern.
 - "I've had luck with other toners though. This weird texture showed up after a week of using retinol about 6 months ago. Since then I feel like my skin never completely healed." Insight: A single product misuse six months ago has left a lasting mark she can't seem to reverse. This reveals how sensitive her skin is, and how a single mistake can create a long-term psychological and physical scar that colors every subsequent decision.
 - "I did one IPL session in the past and had wonderful results. Unfortunately, it didn't last... My pores started becoming more visible again after about 1.75 years." Insight: Even when treatments work, the impermanence of results is a source of profound disappointment. The maintenance commitment required — financially and emotionally — is not always communicated upfront, which makes this feel like another form of failure.
+- "I've tried glycolic acid, niacinamide, and hylaronic acid in the past with little effect. I feel so hopeless"
+Insight: CORE INSIGHT. Three well-known, well-regarded actives tried and dismissed. The hopelessness isn't irrational — it's the accumulation of failed attempts. Each product that doesn't work is another door slamming shut.
+- "I've spent 20+ years fighting your same battle. I can honestly say that until I went to a MedSpa and had a laser peel done, no amount of products would help my face."
+Insight: Twenty years of product failure before finding something that worked. This validates the avatar's deepest fear — that the products simply won't be enough. It also signals what many eventually conclude: topicals have a ceiling.
+- "I tried the one from The Ordinary, and it made my skin peel"
+Insight: Even the most commonly recommended budget solution caused harm for some. Failed products don't just waste money — they set progress back and erode trust in the entire category.
+- "I've been using the BYOMA serum and I've noticed a massive difference already after only using it for about 3 ish weeks" / "I tried niacinamide already and it broke me out"
+Insight: The same ingredient saves one person and destroys another. This inconsistency of results is maddening — there's no universal answer, which means every product recommendation carries real risk of another failure.
+- "I had this, the only way I improved it is through keeping my skin really hydrated and drinking lots of water." / "I wake up daily with new clogs and im so scared. Never had this before and it doesn't go."
+Insight: Solutions that work for some people become false hope for others. When the community's most upvoted answers don't work, it confirms the fear that their case is uniquely unfixable.
+- "I was on Epiduo for almost a year and it barely affected my skin at all. If anything it made it worse, my skin was red, dry and flaky and the acne was still there."
+Insight: A full year of prescription-grade treatment with no results — just damage. This is one of the most demoralizing failure types: medically supervised, committed, consistent effort producing the opposite of the desired outcome.
+- "I've tried literally everything but clogged pores won't go away!!"
+Insight: CORE INSIGHT. "Literally everything" is the language of someone who has hit the wall. This isn't exaggeration to them — it's their lived experience. The word "won't" implies the pores are willfully resistant, which gives the problem an almost adversarial quality.
 
 ## Goals
 - "I am seriously considering doing the laser thing. I can barely wear makeup without accentuating my textured skin, and I've worn bangs to try and cover it for as long as I can remember. I've never seen a skin condition that looks like this on anyone else before."
@@ -105,6 +161,18 @@ Insight: She has already solved the worst of the problem (severe acne) and is no
 - "I really appreciate all of the thoughtful help. I'm revamping the skin routine and getting a high quality retinoid and incorporating collagen and antioxidants. I also got my first hydro facial and going to start micro needling." Insight: When given a clear path forward with specific product categories, she moves immediately. She's a decisive buyer once she has a credible roadmap. She wants to feel like she's taking control and doing something meaningful.
 - "Stay tuned!" Insight: The desire to document and share her journey reveals a secondary goal: community and accountability. Her skin journey isn't just personal — it's social. She wants to be seen improving, and to inspire others as she goes.
 - "My inspiration — feeling and fearing the pain of micro-needling is far more lesser compared to living with scars on the face and not having enough confidence to face the world!" Insight: The true goal is restored confidence — the freedom to go outside, face people, and exist in public without shame. The skin is the barrier between her and her life.
+- "I just want my face to glow a bit"
+Insight: Beneath all the product research and procedure investigation, the goal is simple and deeply human — just to glow. Not perfection. Just light. This is an emotionally humble ask that makes the ongoing failure feel even more cruel.
+- "I want to eliminate large pores and texture to get glass skin"
+Insight: "Glass skin" is the aspirational endpoint — a smooth, luminous, poreless surface that social media has made the reference point for beautiful skin. The goal is not just clear skin but a specific aesthetic ideal popularized by K-beauty culture.
+- "My inspiration - feeling and fearing the pain of micro-needling is far more lesser compared to living with scars on the face and not having enough confidence to face the world!"
+Insight: The goal isn't just cosmetic — it's re-entry into the world. This person is choosing physical pain over social pain. The endpoint they're working toward is confidence enough to show up publicly without shame.
+- "I'm confident enough to leave my house without makeup for the first time in my adult life!"
+Insight: CORE INSIGHT. This is the real goal that runs beneath all the product searches: freedom. Freedom from the daily ritual of coverage. Freedom from the fear of being seen. Leaving the house bare-faced, without armor — this is the finish line.
+- "I want to learn to love myself too."
+Insight: The deepest goal — and the one most easily overlooked — is self-acceptance. Not just better skin, but a better relationship with themselves. The pores are the surface problem; the self-image is the root one.
+- "i wish i had a better before pic. but i guess these can be it, and i can repost later in a month"
+Insight: Documenting progress reveals a goal with a timeline — they want to track visible change, to have proof that the effort is working. The hope embedded in "i can repost later" is fragile but real.
 
 ## Beliefs
 - "I genuinely don't think that there's anything out there that helps with pore size, it's just genetic."
@@ -126,6 +194,17 @@ Insight: She has been told many times that her standards are unrealistic. She in
 - "Topical skincare can only do so much for your skin." Insight: A growing and widely shared belief that over-the-counter products have a ceiling — and that real change requires professional intervention. This belief is driving interest in procedures (microneedling, laser, RF) and sets the stakes for any product that claims to deliver visible structural change.
 - "Social media has really distorted my perception of myself." Insight: She is aware of the manipulation — intellectually. But awareness doesn't create immunity. She continues to compare herself to filtered images even as she names the comparison as unfair. Any brand that acknowledges this distortion will earn instant credibility.
 - "I tried SO much including medication. Now I only use a gentle gel cleanser, Vanicream moisturizer, and Differin and my texture is SOOO much better." Insight: The belief that simplicity beats complexity has emerged for many in this community after painful lessons of over-complication. "Less is more" is a hard-earned conviction — and it makes them skeptical of multi-step, multi-product routines.
+- "Cant really change your pore size, but I find doing chemical face peels by an experienced professional can give you that glass looking skin."
+Insight: CORE INSIGHT. The dominant belief in this community is that pore size is fixed — genetic and permanent. This belief is simultaneously accurate (pores don't truly shrink) and limiting (it closes people off to legitimate appearance improvements). Many products must overcome this deeply held conviction.
+- "I think a lot of the insecurity i have is post trauma. i've had horrible acne all over my face since 17 years old. i'm 28 now. i've come a long way but still aim for better results."
+Insight: The belief is that their current skin state is a scar of the past — not who they are now, but evidence of who they were. Post-acne psychology involves grief, and the large pores are a daily reminder that the battle isn't fully over.
+- "social media has really distorted my perception of myself. Most people, and I mean like 98% of people on this earth, do not have flawless, untextured, even skin."
+Insight: Many in this community hold a dual belief — they intellectually know social media is distorting reality, AND they still emotionally compare themselves to those images. Knowing the illusion doesn't break it.
+- "skin is part of our immune system so it's worth taking extra good care of it because it can often show us other issues going on"
+Insight: A meaningful subset of this avatar believes their skin is a symptom, not just a surface problem — a messenger from their internal health. This makes skincare feel like a moral and health obligation, not just vanity.
+Insight: Deep product skepticism is a foundational belief. They've been promised results by countless products that didn't deliver, so they've built a defense mechanism: preemptively dismissing solutions to avoid further disappointment.
+- "The unattainable glass skin / smooth faced insta skin is exactly that: unattainable & only seems to be attainable for the wealthy atp bc it's all procedural and rarely, if ever, natural."
+Insight: There's a class-conscious layer to this belief system — the belief that perfect skin is a luxury product, accessible only to those who can afford medical-grade procedures. This creates both resentment and resignation.
 
 ## Desires
 - "I've come a long way but still aim for better results. we are all on our individual journeys."
@@ -145,6 +224,21 @@ Insight: Beneath the desire to "fix" her skin is a quieter desire — to make pe
 - "It took me a long time to get where I am happy with my skin." → I want to reach a point of genuine contentment with my skin... so I can stop the endless search for solutions... so I can experience the relief of being done fighting. Insight: The endpoint desire is not perfection — it's the cessation of struggle. She wants the war to be over.
 - "I felt like if I can feel healthy and glowing, I could take on anything." Insight: Skin health is equated with personal power. The desire isn't just to look good — it's to feel capable, unstoppable. Glowing skin is, to this avatar, a form of armor.
 - "Your skin will never be perfect but yours is damn near it." Insight: Deep down, many in this community suspect their skin may already be "good enough" — they just can't see it through the distorted lens of comparison and self-criticism. The hidden desire is to see themselves with kinder eyes.
+- "I want to… not feel self-conscious… so I can… stop thinking about my face… so I can… actually live my life."
+Supporting quote: "I just don't go out and stay indoors for over years! I badly need to get rid of these and start enjoying outdoors!"
+Insight: CORE INSIGHT. The pores aren't just an aesthetic problem — they are causing social withdrawal and life restriction. The deepest desire is freedom of movement and participation in normal life without the constant anchor of self-consciousness.
+- "I want to… fix my skin… so I can… go makeup-free… so I can… feel like myself without a mask."
+Supporting quote: "I'm confident enough to leave my house without makeup for the first time in my adult life!"
+Insight: The makeup-free face represents authenticity and self-acceptance. The desire isn't just for better skin — it's to stop hiding and to meet the world as they actually are.
+- "I want to… improve my texture… so I can… feel proud of my progress… so I can… stop hating what I see in the mirror."
+Supporting quote: "I hope you can feel proud of that and maybe look back at older pictures to really remind yourself of the progress."
+Insight: Progress itself is a desire — the need to see the trajectory moving upward. After years of stagnation, momentum would feel healing. They don't just want the destination; they want to believe they're moving toward it.
+- "I want to… love my skin… so I can… stop comparing myself… so I can… finally feel like enough."
+Supporting quote: "I want you to learn to love yourself too."
+Insight: The desire for self-acceptance runs deeper than the desire for clear skin. For many in this group, solving the pore problem wouldn't automatically solve the underlying belief that they're not enough — which means the real desire is wholeness, not porelessness.
+- "I want to… find something that works… so I can… trust the process… so I can… stop wasting money and emotional energy on false hope."
+Supporting quote: "I can honestly say that until I went to a MedSpa and had a laser peel done, no amount of products would help my face."
+Insight: After years of failed products, the desire for a reliable solution is also the desire to stop being fooled. They want something worthy of their trust and investment.
 
 ## Objections
 - "I also sometimes use adapalene for acne. I have had doxy twice for one month each... I haven't really started that yet."
@@ -166,6 +260,20 @@ Insight: Dietary interventions that require eliminating major food groups are no
 - "My first one seemed to not listen and wanted to sell me stuff." Insight: She has been burned by authority figures with financial motivations. Her trust in expert recommendations is conditional. A brand that leads with education over selling, and that demonstrates genuine understanding of her frustration, will bypass this defenses.
 - "I tried the ordinary's 10% niacinamide and it burned my skin badly... My face was sensitive for days and took 2 weeks to build back the skin barrier." Insight: Skin trauma from popular, well-reviewed products has created caution around even widely recommended actives. The fear of a bad reaction — especially one that takes weeks to heal — is a powerful deterrent to trying anything new.
 - "I did one IPL session in the past and had wonderful results. Unfortunately, it didn't last." Insight: Impermanence is a major objection. If she has invested hundreds of dollars in treatments that faded within two years, she is skeptical of any solution that requires indefinite repeat investment without a permanent payoff.
+- "I've tried glycolic acid, niacinamide, and hyaluronic acid in the past with little effect."
+Insight: CORE INSIGHT. Past failure is the most powerful objection. Before they'll try anything new, they need to understand why this is different from what they've already tried — and failed with.
+- "Nothing you can really do about it, despite what a lot of products try to sell to you."
+Insight: Industry skepticism is a deeply embedded objection. They believe companies are selling them hope, not results. Any new solution must disarm this cynicism before it can land.
+- "results will likely be minimal if you have any at all"
+Insight: The objection of low expected return. Why invest time, money, and emotional energy in something that might do very little? The bar to justify trying anything new is high because disappointment has become the expected outcome.
+- "It's expensive and almost never immediate."
+Insight: CORE INSIGHT. Time and money are dual objections. These people have already spent both extensively. A solution that asks for more of either — especially without guaranteed results — faces enormous resistance.
+- "I'm housebound due to illness + don't have that kind of money"
+Insight: Accessibility is a real and practical objection. Professional treatments (laser, microneedling, medical spas) appear repeatedly as effective solutions, but they're out of reach for many. Solutions must account for real-world financial and physical constraints.
+- "Niacinamide doesn't work for everyone; it broke me out, so I'd spot test first."
+Insight: Fear of making things worse is a significant objection. They've been burned by products that promised improvement and delivered damage. Any new product must address the risk of reaction, not just the potential for benefit.
+- "I am not sure if the age marks help haha" / "Retinoids can take months (or even up to a year) to work depending on the person."
+Insight: The objection of uncertain timelines. When you've been suffering for years, being told to wait another 3-12 months for "maybe" results is a brutal ask. Patience is nearly depleted in this avatar.
 
 ## Level of Awareness
 **Level: Solution Aware (transitioning toward Product Aware)**
@@ -183,6 +291,14 @@ She is NOT unaware or merely problem-aware. She is deep in the solution-research
 - "I've tried micro-needling, I tried Fractional RF needling, I have regular Botox which I was told could help, but nothing has helped the pores or the textured skin." Insight: She has moved through multiple solution categories. She isn't looking to be introduced to the concept of BHA — she's looking for the specific product or protocol that will finally work for her particular skin situation. Marketing that educates at a beginner level will feel condescending and irrelevant.
 - "I immediately saw my pores shrink [with Reedle Shot]...it might not last you forever just by once but this is the goaatttt you've gotta buy thisss" Insight: Product-specific language and social urgency ("you've GOTTA buy this") shows that a subset of this community is fully Product Aware — they have identified specific branded solutions and are evangelizing them. This creates an influencer dynamic within the community itself.
 - "Tretinoin...I saw results the FIRST time I used it. I couldn't believe my eyes." Insight: When she finds the right product, she becomes an immediate advocate. This community converts rapidly from skeptic to evangelist when results are real — making word-of-mouth a primary discovery channel.
+Level: Solution Aware — trending toward Product Aware for a significant segment.
+This avatar is firmly past Problem Aware. They know exactly what their problem is. They have researched it extensively and understand the landscape of solutions: niacinamide, BHA, retinoids, chemical peels, microneedling, laser treatments. They are actively comparing options. The most engaged segment has moved into Product Aware territory — they know specific products (Paula's Choice BHA, The Ordinary Niacinamide, Tretinoin, CeraVe SA Cleanser) and are evaluating which one is right for them or whether they should escalate to professional treatments.
+- "I went on a massive pore shrinking side quest a few years ago: Cleansed with cerave, used the bha from Paula's choice, niacinamide from the ordinary, and tretunoin."
+Insight: This is Product Aware behavior — named brands, specific routines, measurable timelines. They aren't asking what to do; they're asking which version of what they already know will work for their specific case.
+- "I know I can't shrink my pores, but I am so insecure about them…I've tried glycolic acid, niacinamide, and hyaluronic acid in the past with little effect."
+Insight: Classic Solution Aware positioning — they know the solution categories, have tried several, and are looking for the right entry point or the missing piece. They need to be met with specificity, not education about what pores are.
+- "Would it be a bad idea to buy a dermapen and try to minimise the pores that way?"
+Insight: This person is evaluating a specific tool in a specific category — they're comparing professional vs. at-home microneedling. This is advanced Product Aware behavior, requiring copy that addresses efficacy, safety, and comparison rather than category introduction.
 
 ## Emotions & Identity
 - "honestly thinking i might have a huge case of body dysmorphia. but trying to focus on gratitude and the things i can control."
@@ -202,6 +318,18 @@ Insight: She has internalized impossible standards so deeply that she catches he
 - "Something about seeing pores that weren't mine was a much needed breath of fresh air and reminds me that having natural skin like you're sharing with us, is the actual goal...The unattainable glass skin / smooth faced insta skin is exactly that: unattainable." Insight: There is an identity tension at the core of this avatar — she simultaneously craves "glass skin" and knows it's a fantasy. She is caught between the aspirational self she sees on screens and the real self she sees in the mirror. A brand that helps her bridge that gap — rather than exploit it — earns rare loyalty.
 - "I only ever had problems with my pores on my nose as a child, however when I got 25 I noticed some pores...becoming bigger, too... Since I lost a lot of fat from my face I'm thinking about a fat graft." Insight: The skin journey is entwined with aging, body image, and the loss of youthful features. The avatar's concern about pores is never truly isolated — it's connected to a larger fear of physical change, aging, and losing control over her appearance over time.
 - "it's been a long journey 🥹 I hope you find what works for you 💗 I'm still on my journey" Insight: The language of "journey" reveals how she has constructed a narrative identity around her skin struggle. She is not just a person with pores — she is a person on a skin journey. This identity shapes her relationship with every product, every treatment, every piece of advice she receives. She is always in the middle of the story, hoping for the next chapter to be better.
+- "I feel extremely vulnerable posting this, but I'm really self-conscious about my skin and need help."
+Insight: Vulnerability is the emotional register of this avatar. This is not someone who casually posted a complaint — this is someone who worked up courage to expose a source of deep shame. The identity wound here is the belief that they are less attractive, less worthy, or more flawed than others because of what they see in the mirror.
+- "it's like low hanging fruit, i can't help but inspect and judge myself. I mean, granted, we all wake up everyday and look at the same skin in the mirror for all of our lives."
+Insight: The identity issue is not just about pores — it's about a relationship with self-perception that has become adversarial. They see themselves through a hypercritical lens daily, and their identity has formed around being someone who is fighting their own face.
+- "history: i've had horrible acne all over my face since 17 years old. i'm 28 now. i think a lot of the insecurity i have is post trauma."
+Insight: "Post trauma" is a precise and revealing word choice. Their skin identity is built on a history of suffering. The large pores aren't just a cosmetic issue — they're a scar that connects them to years of pain, embarrassment, and being "the person with bad skin." Overcoming this is about rewriting an identity, not just clearing a complexion.
+- "I remember being jealous of one of my brothers growing up because he got our mom's genes and me and my other brother got our dad's."
+Insight: Genetic unfairness is an identity wound. They feel cheated by biology — given the worse deal in the family lottery. This comparison to siblings or peers who "won" genetically is a recurring emotional undercurrent that creates feelings of fundamental inequality.
+- "My inspiration - feeling and fearing the pain of micro-needling is far more lesser compared to living with scars on the face and not having enough confidence to face the world!"
+Insight: The core identity desire is the ability to face the world — to show up, be present, be seen without shame. The deepest emotional driver is not vanity but belonging. They want to re-enter social life as a full participant, not someone hiding behind angles, lighting, or makeup.
+- "Reading your post and all these comments made me feel less alone"
+Insight: CORE INSIGHT. Isolation is a defining emotional experience for this avatar. They carry this problem quietly, believing they're the only one who notices or cares this much. The relief of feeling less alone is powerful — it reveals that connection and validation are emotional needs as strong as any skincare solution.
 
 ## Real Customer Language
 - "orange peel skin" — Why this phrase matters: This is the precise, visceral metaphor she uses to describe the dimensional, dimpled texture she sees. It's not "rough skin" — it's a specific visual that signals she has studied her skin closely enough to map it onto a recognizable object. Any copy that uses this term will signal immediate recognition.
@@ -221,6 +349,15 @@ Insight: She has internalized impossible standards so deeply that she catches he
 - "glass skin" — Why this phrase matters: This is the aesthetic aspiration with a name. Glass skin is not just smooth skin — it's a specific Korean beauty ideal: luminous, poreless, almost translucent. This phrase tells you exactly what she's picturing as success. Products positioned along this aesthetic vocabulary will signal instant relevance.
 - "my skin barrier is damaged / compromised" — Why this phrase matters: CORE INSIGHT — barrier damage is the diagnosis this community has collectively arrived at as the root cause of many skin texture problems. She has absorbed this language from Reddit and beauty creators, and she uses it to explain her failures. Any product or protocol that speaks to "barrier repair" as its primary mechanism will immediately match her mental model of the problem.
 - "orange peel skin" — Why this phrase matters: A highly specific, visceral texture description that reveals how she visualizes her skin. It's not just bumpy — it's textured in a specific way that connotes roughness and loss of smoothness. This phrase in copy would be instantly recognizable to this avatar and create a powerful "they're talking about me" moment.
+- "large pores ruining my confidence" — Why this phrase matters: "Ruining" is an extreme verb that signals severity and ongoing damage. This is not "affecting" or "bothering" — it's an active destruction of something precious. Copy that uses this framing will resonate immediately.
+- "orange peel skin" — Why this phrase matters: A sensory, visual metaphor that perfectly describes the texture problem. When people encounter this phrase in copy, they immediately and viscerally recognize their own skin. It's a precise identification word that builds instant credibility.
+- "glass skin" — Why this phrase matters: The aspirational opposite of their current reality. It encodes a specific, culturally loaded beauty ideal — smooth, luminous, poreless, translucent. Any copy that anchors to this destination speaks directly to the dream they're chasing.
+- "I feel so hopeless" — Why this phrase matters: CORE INSIGHT. This phrase appears across multiple posts. It's the emotional summary of someone who has tried and failed repeatedly. Copy that opens by acknowledging this hopelessness — without dismissing it — creates an instant bond of understanding.
+- "side quest" / "obsessive use" — Why this phrase matters: These people don't dabble. They go deep. "Side quest" is gaming language applied to skincare, revealing how all-consuming the search becomes. Language that honors the depth of their research and effort will be received far better than language that talks down to them.
+- "I went on a massive pore shrinking side quest" — Why this phrase matters: The word "massive" signals intensity of effort and investment. This avatar respects persistence and expertise. Copy that acknowledges the journey — not just the destination — will land.
+- "my pores finally shrank" — Why this phrase matters: "Finally" is the operative word — it encodes time, effort, and delayed gratification. This language validates the long road and makes the result feel earned, not lucky. It creates believability.
+- "Nobody is inspecting your pores but you" — Why this phrase matters: This is the rational truth the avatar has been told a hundred times and cannot emotionally accept. It's a tension they live in. Copy that acknowledges both the logical truth AND the emotional reality ("we know you know this, and you still can't stop") is far more powerful than copy that simply repeats the reassurance.
+- "just genetics" — Why this phrase matters: A phrase of resignation. When someone says "it's just genetics," they're surrendering. Copy that acknowledges this accepted defeat before pivoting to what CAN be changed or minimized will feel like a genuine lifeline, not a sales pitch.
 
 ## Visual Cues
 - "I will catch a glimpse of my reflection over by a window and my skin will look like the surface of Mars."
@@ -237,6 +374,16 @@ Insight: Journey imagery — before photos, progress timelines, real faces in re
 - "I didn't even know I had big pores until afterwards when my skin looked airbrushed." Insight: "Airbrushed" is the gold-standard visual comparison — not filtered, not edited, but naturally airbrushed. Before/after imagery that shows this quality of skin transformation, achieved through real-world treatment, will function as an aspiration trigger. The key word is "until afterwards" — the transformation so complete she forgot what she was worried about.
 - "Lightning makes all the difference. Below angle kills my confidence." Insight: The avatar is acutely aware of how lighting changes her skin's appearance. Visuals should deliberately show skin looking good in harsh, unflattering lighting — because that's the test she's applying to herself every day. Showing a product working under bathroom fluorescents, not studio photography, will be more believable.
 - "My inspiration — feeling and fearing the pain of micro-needling is far more lesser compared to living with scars on the face and not having enough confidence to face the world!" Insight: The image of someone going outside confidently, face unobstructed, in natural light — no makeup, no hiding — is the emotional endpoint image this avatar needs to see. Not just a close-up of smooth skin, but a person who is free.
+- "a guy in my class sitting next to me asked me why I have holes in my face"
+Insight: The image of being called out publicly — by a peer, at close range, without warning — is a nightmare scenario that many in this community fear or have experienced. Visuals that imply social confidence and being seen up close without fear would be deeply triggering in a positive way.
+- "I like taking close-ups of my nose then going in as close as possible so one pore takes up the entire shot. Then I send that photo of my giant pore, just a cavernous red hole, to my sister."
+Insight: The "cavernous red hole" image captures the grotesque way this avatar sees their own pores at maximum zoom. Images that show real, unfiltered skin alongside improvement — not the digitally-poreless ideal, but genuinely better real skin — will be more credible and aspirational than filtered perfection.
+- "Lightning makes all the difference. Below angle kills my confidence. (laughing but dying at the same time. why do i torture myself?)"
+Insight: The mirror and the camera angle are recurring instruments of self-torture. Visual content that captures the before-mirror-moment — the unflattering lighting, the magnified self-examination — followed by a genuine after, will tap directly into the most emotionally charged moment of this avatar's day.
+- "I'm confident enough to leave my house without makeup for the first time in my adult life!"
+Insight: The image of a bare face, outdoors, in natural light — not a studio shot — is the most powerful visual cue for this audience. It communicates freedom, authenticity, and the end of hiding. The makeup-free face is the trophy.
+- "I barely wear makeup and because I don't look so unsure, people observe me as confident and happy, sometimes even stuck up because they think I'm that type"
+Insight: The visual of being mistaken for confident — of projecting ease without effort — is deeply aspirational. Images of people who look effortlessly unbothered, clearly not hiding anything, will resonate far more than images of obvious beauty routines and product application.
 
 ## Trigger Moments
 - "Below angle kills my confidence. (laughing but dying at the same time. why do i torture myself?)"
@@ -255,3 +402,16 @@ Insight: The daily visual of her own skin in the mirror — especially clogged p
 - "I've been doing dermapen sessions for the last two months. I wish I had a better before pic." Insight: Beginning a professional treatment series is itself a trigger moment — she's invested money, time, and hope, and she wants to optimize everything around it. This is when she re-evaluates her entire routine and looks for products to support and enhance the results she's paying for.
 - "I also got my first hydro facial and going to start micro needling." Insight: The first professional treatment is a significant trigger — it signals that she has decided to escalate beyond over-the-counter solutions. This moment marks a shift in both financial investment and psychological commitment. She is now in "results mode" and highly receptive to products that complement her new protocol.
 - "I'm 53, my skin is combined / sensitive because of peroxides and other acne prescriptions from the dermatologist in my teens (somewhere in the Middle Ages). I've been using Sisley for the last 18 months and switched to Numbuzin..." Insight: A brand switch or routine overhaul triggered by a single piece of content, product recommendation, or community post is a recurring trigger. She can be in her current routine for 18 months and switch completely based on compelling evidence. The trigger is often a story of transformation that mirrors her own concern closely enough to create identification.
+- "a guy in my class sitting next to me asked me why I have holes in my face"
+Insight: A public callout from a peer is one of the most acute trigger moments — an external voice confirming the internal fear. This kind of moment typically sends someone spiraling into research mode, searching for solutions with renewed desperation.
+- "I've currently been on accutane for almost 3 months now and my skin texture looks worse everyday that goes by… HELP"
+Insight: A medical treatment that appears to be making things worse creates panic and urgency. When something that was supposed to fix the problem seems to be amplifying it, people reach for immediate answers from anyone who has been through the same experience.
+- "I got off of birth control and spironolactone 2 weeks ago, and I am actively working on reducing sugar intake."
+Insight: Hormonal transitions — stopping birth control, changing medications, puberty, post-pregnancy — are major skin trigger moments. The body changes, the skin changes, and people scramble to adapt their routines. These transitions push people actively into product and solution research.
+- "I didn't start using sunscreen on my face until this last year"
+Insight: The moment of realizing you've been doing something wrong — or missing a critical step — for years creates both guilt and urgency. The trigger here is the recognition of a past mistake combined with the fear of how much damage has already been done.
+- "Honestly, lightning makes all the difference. Below angle kills my confidence. (laughing but dying at the same time. why do i torture myself?)"
+Insight: A specific lighting moment — a bathroom mirror, a phone camera, a harsh overhead light — that makes pores look dramatically worse than usual is a recurring trigger. This is often the "straw that broke the camel's back" moment that sends someone to Reddit or to a retailer.
+Insight: Environmental comparison triggers — being surrounded by people whose skin looks dramatically different or "better" — create acute awareness of one's own skin. Travel, immigration, or a new social environment can suddenly make a person hyper-conscious of something they'd learned to ignore at home.
+- "I lost everything and my home burned down and I could not afford any of those treatments and for a while, not even the proper products…In turn it got clogged and cheaper makeup covered it and today my skin is worse than ever. I miss the skin I had just like yours so badly."
+Insight: Life disruption that breaks an existing routine and causes visible skin deterioration becomes a powerful re-entry trigger. When someone has seen their skin get better and then watched it regress, the motivation to find a solution is emotionally supercharged by both grief and hope that restoration is possible.
