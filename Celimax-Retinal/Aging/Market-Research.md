@@ -1,4 +1,4 @@
-# Puffy Face — Avatar Deep Dive Research
+# Avatar Deep Dive Research
 
 ## Pain Points
 - "Lately my deep forehead lines/wrinkles are bothering me."
