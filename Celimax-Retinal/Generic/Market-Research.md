@@ -1,4 +1,4 @@
-# Puffy Face — Avatar Deep Dive Research
+# Avatar Deep Dive Research
 
 ## Pain Points
 - "I've struggled with acne throughout most of my 20s and while the acne and regular breakouts are behind me, the texture of my skin bothers me. I feel like I have scarring left behind and that I have to use a bunch of acids and expensive treatments to get the smooth and even texture and complexion that I want."
