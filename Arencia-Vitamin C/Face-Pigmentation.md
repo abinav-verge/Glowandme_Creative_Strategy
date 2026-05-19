@@ -15,6 +15,18 @@ Insight: The raw, expletive-laced language signals genuine distress and vulnerab
 Insight: The four exclamation points are a cry of exhaustion. This isn't a new problem — it's a chronic one that has outlasted their patience and their hope. Time itself has become the enemy.
 **CORE INSIGHT:** Multiple users express a feeling of being stuck — that despite trying products, routines, and even professional treatments, the spots persist. The emotional throughline is not just frustration — it's a quiet despair that they may be permanently marked.
 ---
+- "It never bothered me until a guy in hs said it looks like a mustache. Now everytime I take pictures without filters its the first thing I notice."
+Insight: The pain isn't primarily physical — it's social and photographic. A single offhand comment from a peer rewired how she sees her own face. The filter dependency reveals she's found a workaround but it hasn't fixed the underlying wound.
+- "I am very tired of this. I try to use makeup to hide it which makes my face look grey."
+Insight: The attempted solution (makeup) is making her feel worse, not better. She's trapped in a cycle where both the problem and the fix are sources of distress. This is a double-bind that creates deep helplessness.
+- "It has been really depressing. I feel it has made me more unattractive."
+Insight: This is identity-level damage, not just cosmetic frustration. The word "depressing" signals the emotional weight has crossed from vanity concern into genuine psychological suffering.
+- "ive had this since childhood, hate it. looks like a mustache, nothing seems to work to lighten it."
+Insight: The mustache comparison appears across multiple posters — it's a specific, humiliating visual metaphor that cuts deep. The repetition across unconnected users reveals this is a shared psychological scar, not an individual quirk. CORE INSIGHT
+- "And the foundation looks ashy over it 😭😭😭 need sol to treat it onggg"
+Insight: Even the cover-up fails visually, leaving her worse off and more conspicuous. This compounds frustration — she can't hide it, can't fix it, and can't leave it alone.
+- "I have dark rings around my eyes (for 10+ years) but when I research it I can really only find information talking about under the eye... I find it's what bothers me the most."
+Insight: She's been suffering for over a decade and can't even find information that matches her exact problem. The invisibility of her specific concern in mainstream skincare discourse amplifies her isolation and frustration.
 
 ## Day-to-Day Struggles
 - "He never had a proper skin care routine and never used sunscreen too. I am trying to get him in the habit to follow cleanse-moisturize-sunscreen."
@@ -24,6 +36,14 @@ Insight: This is a devastating catch-22 — the #1 recommended solution is perce
 - "None of the other ideas will work if you don't. Wear. Sunscreen."
 Insight: The emphatic, fragmented sentence construction from the commenter reflects how universal and repetitive this struggle is — people in this community have to be told the same foundational advice repeatedly because the behavior hasn't stuck. The daily discipline of sunscreen application is a genuine ongoing battle for this avatar.
 ---
+- "My face is already 3-4 shades darker than the rest of my body now these patches of dark skin have appeared."
+Insight: The uneven skin tone creates a fragmented relationship with her own reflection. Her face — the most socially exposed part of her body — feels like it belongs to someone else, disconnecting her from her own identity.
+- "I tend to get panda eyes when I sleep bad, but I've been sleeping well for some days in a row just to take these pictures."
+Insight: She's staging her own "best case" photos for Reddit, which means on regular days it's worse. She's managing her appearance as an active daily task, not a passive reality — exhausting.
+- "I've used retinol and vitamin c topicals to no avail"
+Insight: She's done the homework. She's not lazy or uninformed — she's tried the most commonly recommended solutions and hit a wall. This is the daily frustration of effort without reward, which breeds hopelessness faster than doing nothing at all.
+- "I have had 4 sessions of dermapen microneedling, perfect chemical peel, have stopped using sulfate toothpaste, use Vaseline at night in case it's from drooling and use tranexamic acid serum at night and niacinamide in the day and nothing seems to be helping!"
+Insight: This is someone who has thrown everything at the problem — professional treatments, dietary changes, nightly rituals — and is still not winning. The exclamation mark is exhaustion dressed as punctuation.
 
 ## Victories
 - "Glycolic acid helped me with that. Mine was from melasma."
@@ -35,6 +55,14 @@ Insight: The smiley face and the phrase "barely visible" signal emotional relief
 - "look into tretinoin! it fades dark spots faster than anything else"
 Insight: The enthusiasm and the superlative ("faster than anything else") suggests personal experience. Victories with prescription-strength actives reinforce a belief that OTC solutions may be insufficient — and that there IS a solution, it just requires escalation.
 ---
+- "Using sunscreen regularly helped me"
+Insight: Prevention — not cure — is the win she's found. This tells us she's open to long-game solutions but desperately wants to accelerate the timeline.
+- "It went away when I was on oral Tret. Quite strange"
+Insight: This accidental discovery through a systemic treatment suggests people have found unexpected wins — but the randomness is frustrating. She wants a predictable, targeted solution, not a lucky side effect.
+- "I recently got my blood tests done and followed a diet accordingly and it seemed to improve. I take multivitamins and drink atleast 3L water daily... It's been 1 month since I've been taking them."
+Insight: Holistic, internal approaches show early promise in her experience. She's beginning to connect inner health to outer appearance — a mindset shift that opens her to systemic solutions rather than just topical ones.
+- "I had mild perioral dermatitis and a really bad eczema flareup roughly 2 years ago. That left some pigmentation but it quickly faded with creams and now I consistently moisturise my skin and apply Vit C. It really helps."
+Insight: Consistency wins where one-off attempts fail. This user found her answer in routine discipline — a victory that's replicable, not random. It gives hope that the right regimen, maintained, does produce results.
 
 ## Failures
 - "Even with a chemical peel this spot still lingers."
@@ -47,6 +75,14 @@ Insight: "No matter what I use" is a statement of comprehensive failure. This pe
 Insight: When community members escalate to suggesting laser as a last resort, it signals a collective understanding that standard skincare has failed for many. This framing positions laser as both hope and admission of defeat — accessible only to those with resources, and implying everything else wasn't enough.
 **CORE INSIGHT:** Multiple users reference trying multiple products and still seeing no results. The failure pattern is consistent: accessible OTC products fail first, then more aggressive interventions (peels, serums, acids) also underwhelm, leaving the avatar feeling that their specific case is uniquely resistant to treatment.
 ---
+- "I work at a spa I do endless everything peels, micro, microneedling, lasers, retinols and vitamin c, sunscreen and LEDS. Nothing changes it."
+Insight: CORE INSIGHT. A skincare professional with access to every clinical tool available cannot fix her own perioral hyperpigmentation. This is the most devastating failure testimony in the data — if someone who does this for a living can't fix it, the average person feels completely powerless.
+- "I have had 4 sessions of dermapen microneedling, perfect chemical peel... and nothing seems to be helping! My practitioner is suggesting more microneedling 🥲"
+Insight: She's being upsold on the same treatment that already failed. The crying emoji after "more microneedling" captures the exhaustion of throwing money at a practitioner who has no better ideas. She's not just failing — she's being failed by professionals.
+- "Although honestly I haven't had much luck with them working on hyperpigmentation around my lips. I think it's genetic."
+Insight: The pivot to "it's genetic" is often where hope goes to die. This belief — held loosely or firmly — is the biggest psychological barrier to continued effort. It reframes the problem as permanent rather than treatable.
+- "I noticed that when I use products that have kojic acid for this issue it eventually makes it worse. But what a lot of ppl don't know is the kojic acid is for spot treatment & shouldn't be used everyday. It can cause more harm than good and in the long run hyperpigmentation will be worse off"
+Insight: She tried a popular, well-marketed ingredient and made things worse. Misinformation and improper use have compounded her problem. She's learned to distrust products that overpromise, making her simultaneously more skeptical and more desperate.
 
 ## Goals
 - "Is it treatable?"
@@ -56,6 +92,14 @@ Insight: The goal here isn't vanity — it's building a sustainable, protective 
 - "I guess my best option at this point is to bring this issue up to my doctor."
 Insight: After exhausting community advice and DIY attempts, the avatar's goal shifts toward professional validation. This represents a meaningful escalation — they're no longer just looking for a product, they're looking for an authority to tell them what's actually happening and what will actually work.
 ---
+- "I am asking for a remedy that is to reverse what I have done"
+Insight: She doesn't just want improvement — she wants restoration. The goal is to return to a baseline that felt normal, not to achieve some idealized aesthetic. This is important: she's not chasing perfection, she's chasing back what she feels was taken from her.
+- "Isn't there anyway to treat it?"
+Insight: The question itself is the goal expressed as doubt. She's not asking how to treat it — she's asking if it's even possible. The barrier isn't knowledge of options, it's belief that any option can work for her specifically.
+- "I've been digging through the FAQ... But I am having trouble understanding what type of dark circles I have."
+Insight: She wants a clear diagnosis before she commits to a solution. Her goal is certainty in a space filled with conflicting advice. She wants someone to look at her specific situation and say "this is exactly what you have, here's exactly what will work."
+- "What could I possibly do to lighten it?"
+Insight: The word "possibly" is doing a lot of emotional work here. It reveals low confidence that a solution exists. Her goal is framed as an open question, not a confident pursuit — she's hoping to be surprised by an answer.
 
 ## Beliefs
 - "Could be melanoma"
@@ -67,6 +111,14 @@ Insight: This comment reveals a belief that skin tone determines your destiny wi
 - "some products are safe for any acne — some can clear skin AND help pigmentation without risk"
 Insight: The belief that safety and efficacy can coexist is actually a hopeful one — but it's qualified with significant skepticism. The emphasis on "safe" and "without risk" reveals that past experiences with products have created real concerns about harm. Belief in solutions exists, but it's wrapped in wariness.
 ---
+- "This is completely normal and genetic, actives might decrease it slightly but it cannot be eliminated."
+Insight: CORE INSIGHT. The "it's genetic, can't be fixed" belief is the dominant narrative across multiple posts and communities. This is the biggest belief barrier standing between this avatar and taking action. A solution must directly challenge — and credibly defeat — this belief.
+- "People on reddit will tell you its your toothpaste or a vitamin b deficiency. Its genetic."
+Insight: She's been exposed to so many contradictory theories that she's become a skeptic. She's done her research, been misled by well-meaning amateurs, and landed on genetic determinism as the most "honest" explanation. Breaking through this cynicism requires specific, credible science — not more anecdotes.
+- "Fading stubborn hyperpigmentation takes a long time. Like 12 weeks of religious use to start to notice a change."
+Insight: She believes improvement is possible in theory but requires near-impossible consistency over a frustratingly long timeline. This belief makes her simultaneously hopeful and exhausted before she even starts. Speed of visible results is a critical purchase trigger.
+- "I don't know if this would be considered worthy enough for a visit [to the dermatologist]."
+Insight: She has internalized the message that her concern is cosmetic and therefore trivial — not worth a doctor's time. She's dismissing her own suffering as vanity, which delays professional help and keeps her stuck in the Reddit advice loop.
 
 ## Desires
 - "I want to… get rid of it / so I can… stop thinking about it / so I can… feel normal and stop being reminded every time I look in the mirror."
@@ -82,6 +134,14 @@ Insight: This post reveals that the desire to solve hyperpigmentation can be an 
 Supporting quote: "I am trying to get him in the habit to follow cleanse-moisturize-sunscreen."
 Insight: The desire for simplicity is profound here. This avatar isn't looking for a 12-step system — they want something clean, doable, and trustworthy. Complexity has been the enemy of consistency.
 ---
+- "It never bothered me until a guy in hs said it looks like a mustache. Now everytime I take pictures without filters its the first thing I notice."
+Insight: I want to stop seeing the flaw first... so I can look at photos of myself without dread... so I can feel like my face belongs to me again. The filter dependency is a temporary mask over a permanent insecurity. She wants to exist on camera without armor.
+- "It has been really depressing. I feel it has made me more unattractive."
+Insight: I want to feel attractive again... so I can engage in the world without self-monitoring... so I can stop letting my skin define my confidence. The word "depressing" signals this isn't a minor vanity issue — it's affecting her quality of life.
+- "I try to use makeup to hide it which makes my face look grey."
+Insight: I want to stop hiding... so I can show up bare-faced... so I can feel like I'm not managing a secret every time I leave the house. She's not asking for perfection — she's asking for the freedom to not perform normalcy.
+- "Isn't there anyway to treat it?"
+Insight: I want to believe a solution exists for someone like me... so I can try something with real hope instead of resigned experimentation... so I can stop feeling like my skin is uniquely unfixable. The deepest desire here is permission to hope again.
 
 ## Objections
 - "I stopped using sunscreen because I noticed that the sunscreen was reacting with the sun making my hyperpigmentation darker."
@@ -93,6 +153,16 @@ Insight: The avalanche of conflicting diagnoses from strangers creates a paralys
 - "by going to a dermatologist and letting them treat you."
 Insight: The dismissive simplicity of this response reflects an objection the avatar holds against professional care: it feels inaccessible, expensive, or like giving up autonomy. The fact that dermatologist referrals are both the #1 recommendation AND frequently not acted upon reveals a real cost/access/trust barrier.
 ---
+- "I work at a spa I do endless everything peels, micro, microneedling, lasers, retinols and vitamin c, sunscreen and LEDS. Nothing changes it."
+Insight: If a spa professional can't fix it with every tool available, why would a new product work for me? This is the nuclear objection — past failure at the highest possible level of intervention. A product must explain why it's different in kind, not just degree.
+- "I noticed that when I use products that have kojic acid for this issue it eventually makes it worse."
+Insight: She has real evidence that "brightening" products can cause harm. She's not paranoid — she's burned. Any new solution must address the fear of making things worse before asking her to invest hope.
+- "Fading stubborn hyperpigmentation takes a long time. Like 12 weeks of religious use to start to notice a change."
+Insight: The time commitment is an objection disguised as a fact. If results take 3+ months, she's likely to give up or blame the product for a "failure" that was actually impatience. A solution needs clear early milestones, not just a promised endpoint.
+- "My practitioner is suggesting more microneedling 🥲 my skin is Fitzpatrick 5 and prone to PIH."
+Insight: She's been burned by professional advice that led to more spending without results. Her trust in authority figures — practitioners, brands, experts — is fractured. Social proof and clinical evidence must overcome her well-earned skepticism.
+- "The pigmentation... sits in the deeper layer of your skin."
+Insight: She's been told by dermatology-adjacent sources that the pigment is inaccessible to topical treatments. This structural objection — it's too deep for creams to reach — must be addressed directly and scientifically to move her.
 
 ## Level of Awareness
 **Classification: Problem Aware → Solution Aware (transitional)**
@@ -104,6 +174,14 @@ Insight: This statement reflects a Solution Aware person who has exhausted acces
 - "Thanks to everyone for your advice... I will of course continue to do so."
 Insight: The polite, somewhat resigned tone here reflects someone who has received information but lacks conviction. They're collecting options, not committed to one. The awareness is high but the decision confidence is low — a classic transitional state ripe for a clear, confident solution offer.
 ---
+Classification: Solution Aware — trending toward Product Aware for some users
+These users clearly understand their problem (perioral and periocular hyperpigmentation). They have researched and tried multiple solution categories — retinol, vitamin C, niacinamide, tranexamic acid, glycolic acid, microneedling, chemical peels, laser, dietary changes, sunscreen. They are not asking "what is this?" — they are asking "why isn't anything working?" or "which product/approach is actually best?"
+- "I've used retinol and vitamin c topicals to no avail"
+Insight: She knows the mainstream solutions, has applied them correctly, and is still unsatisfied. She's past problem awareness and solution awareness — she's in a frustrated search for the right product within a solution category she already understands.
+- "I have had 4 sessions of dermapen microneedling, perfect chemical peel, have stopped using sulfate toothpaste, use Vaseline at night... and nothing seems to be helping!"
+Insight: This level of protocol sophistication puts her firmly at Solution Aware, bordering on Product Aware. She's not being educated — she's being failed by the existing products and treatments she already knows about. Marketing to her requires acknowledging what she's already tried and offering a genuinely differentiated mechanism of action.
+- "Nothing worked on my hyperpigmentation. I finally went to a clinic for laser. I did 6 sessions of pico laser and now I have an even toned skin."
+Insight: This user has progressed all the way to Most Aware within a specific solution (laser), having found one that worked after exhausting others. She represents the aspirational end-state — and her testimony shows the avatar is willing to escalate investment if the result is real.
 
 ## Emotions & Identity
 - "I'm a SCA vet at this point, but this one spot won't fade at all."
@@ -118,6 +196,16 @@ Insight: This metaphor of something that "never properly healed" resonates far b
 Insight: The sense of displacement — damage acquired in one country, living with it in another — carries a subtle identity layer. The trip was supposed to be a positive experience. Instead, it left a visible mark. There's grief here: the souvenir they didn't ask for.
 **CORE INSIGHT:** This avatar's emotional relationship with their skin is deeply tied to identity — the feeling of being permanently marked, visibly different, or unable to undo past mistakes. The dark patch is not just a cosmetic concern; it's a daily reminder of something that went wrong.
 ---
+- "I am very tired of this. I try to use makeup to hide it which makes my face look grey."
+Insight: The exhaustion here isn't just physical — it's the exhaustion of constant self-management. Her identity has been quietly organized around concealment, and the makeup that was meant to liberate her has become another problem. She's tired of fighting her own face.
+- "This sub is always a great reminder that we really are our own worst critics. I would never have noticed if you didn't point it out, and even still I had to really look for it."
+Insight: There's a profound gap between how she sees herself and how others perceive her. Her identity has been distorted by hyper-focused self-scrutiny. She's not objectively flawed — she's been trained by one comment or one bad photo to zoom in on something others genuinely can't see.
+- "I'm not too sure if I can properly explain the why but a good option to treat it is using glycolic acid, it has worked well for me"
+Insight: CORE INSIGHT. She's so embedded in the community that she's become an advice-giver, not just a seeker. Her identity is partially built around skincare knowledge and shared struggle. She belongs to a tribe defined by this specific problem — and that tribal belonging matters emotionally.
+- "Many people of color have this, it's normal"
+Insight: There's a cultural and ethnic identity dimension here that cannot be ignored. For many users, this is a feature of their heritage being treated as a flaw — which creates a deeper, more complex emotional wound than simple cosmetic dissatisfaction. Any solution must navigate the tension between "you don't need to fix this" and "here's how to fix this if you want to."
+- "I have this too 😪 hate it."
+Insight: The emoji carries more weight than the words. This is quiet, resigned suffering — not rage, not urgency, but chronic low-grade shame. The heart of her emotional identity around this issue is not anger but a tired, enduring self-consciousness she's learned to live with but never accepted.
 
 ## Real Customer Language
 - "This dark spot will never go away." — Why this phrase matters: The finality of "never" is emotionally charged and copy-ready. It captures the exact hopelessness the avatar feels — and a headline that begins "What if that dark spot CAN go away?" speaks directly to this resignation and flips it into possibility.
@@ -128,6 +216,13 @@ Insight: The sense of displacement — damage acquired in one country, living wi
 - "Is it treatable?" — Why this phrase matters: These three words are the rawest expression of the avatar's emotional state. Before benefits, before ingredients, before price — they need to know if hope is even on the table. Any marketing that leads with "Yes, it's treatable — and here's proof" will resonate at the most fundamental emotional level.
 - "minimal but effective routine" — Why this phrase matters: This phrase reveals the avatar's relationship with solutions — they want results without overwhelm. Copy that promises simplicity alongside efficacy will lower the barrier to commitment and speak directly to their action-fatigue.
 ---
+- "looks like a mustache" — Why this phrase matters: This is the specific, humiliating language that recurs across multiple users and communities. It's the phrase someone else used to wound them, and it has become the lens through which they see their own face. Any copy that acknowledges this phrase will cut straight through the noise and signal "I understand exactly what you're dealing with."
+- "the first thing I notice" — Why this phrase matters: This reveals the hyper-focused perceptual distortion that defines her relationship with her appearance. It's not about the feature being objectively prominent — it's about it becoming the first stop in her own visual scan. A product that promises to remove it from her mental first-place will resonate deeply.
+- "nothing seems to work" — Why this phrase matters: CORE INSIGHT. This phrase (and close variants) appears in multiple posts. It's the emotional exhaustion of a committed, informed person who has done everything right and still failed. It signals a market primed for a solution that credibly promises "this is different from what you've already tried."
+- "I hate it" — Why this phrase matters: Short, blunt, unambiguous. No hedging, no qualification. This emotional directness is rare in public forums and signals that the frustration has bypassed polite framing. Copy that matches this emotional directness — rather than clinical or aspirational language — will feel like recognition.
+- "I'm very tired of this" — Why this phrase matters: Fatigue, not hope, is her current dominant emotional state. She's not excitedly searching for the next thing to try — she's dragging herself toward one more attempt. Copy that leads with understanding her exhaustion before offering hope will outperform copy that leads with enthusiasm.
+- "it's genetic" — Why this phrase matters: This is the phrase she uses to close the door on hope. It's her resigned explanation that also functions as a wall against further disappointment. A product that directly addresses this belief — with evidence — has the potential to reopen a door she's convinced herself is permanently shut.
+- "my skin is Fitzpatrick 5 and prone to PIH" — Why this phrase matters: This is expert-level self-diagnosis. She's done the research, learned the clinical terminology, and applies it to herself. Copy that uses this language signals that you understand her specific skin type and won't give her generic advice that ignores the reality of darker skin tones.
 
 ## Visual Cues
 - "Symmetrical dark patches on both sides of face, one side more pronounced."
@@ -137,6 +232,14 @@ Insight: The after-state visual is not "perfect skin" — it's "barely visible."
 - "it only healed on the surface but it was still inflamed on the inside so I would randomly get pimples in that spot"
 Insight: The image of something that looks healed but isn't — a surface fix over an active wound — is a powerful visual metaphor for ineffective solutions. Visual content or copy that distinguishes between "surface treatment" and "deeper healing" will trigger recognition in this avatar who has lived this exact experience.
 ---
+- "Now everytime I take pictures without filters its the first thing I notice."
+Insight: The unfiltered selfie is the moment of confrontation. An image showing a phone camera — or the before/after gap between filtered and unfiltered — would trigger immediate recognition and emotional resonance for this avatar.
+- "I try to use makeup to hide it which makes my face look grey."
+Insight: The grey, ashy, over-made-up face is a visual she lives with daily. Before/after imagery showing skin that looks natural and even — not cakey or masked — would directly address this fear and show her what the alternative to concealment looks like.
+- "I clearly remember when I first noticed it in high school."
+Insight: The memory is tied to a specific moment of social exposure — school, peers, judgment. Imagery evoking naturalness, bare skin, and confidence in public (not studio-lit perfection) will connect more deeply than clinical or aspirational photography. She wants to look like herself, not like a model.
+- "It's been 1 month since I've been taking them [supplements] and it seemed to improve."
+Insight: Progress timelines are visually powerful for this avatar. A real, clearly dated progression — week 1 vs week 4 vs week 12 — featuring skin that looks like hers (darker complexion, perioral hyperpigmentation) would be far more persuasive than polished campaign photography. She needs to see herself in the result, not a proxy.
 
 ## Trigger Moments
 - "I was uneducated on shaving and would go against the grain."
