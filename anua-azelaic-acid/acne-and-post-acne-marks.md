@@ -28,6 +28,20 @@ Insight: This represents the avatar's deepest fear made real — that no product
 Insight: "From ANYTHING" signals that the avatar feels uniquely cursed — their skin reacts and scars from even minor triggers, making the problem feel out of their control. They're not looking for another product to try blindly; they're looking for something that actually delivers measurable results.
 - "I've used so many different types of chemicals idk anymore."
 Insight: Decision fatigue is real here. The avatar has hit a wall where the sheer number of options and failures has left them paralyzed, confused, and unsure what to trust.
+- "I ran out and got an AHA gel hoping it would fade my scars and was super disappointed when it did nothing."
+Insight: This person invested hope — and money — into a solution that failed them. The disappointment isn't just practical; it's the emotional crash that comes after believing you've finally found the answer.
+- "Later I learned the difference between PIE and PIH and that I'm basically shit outta luck when it comes to treating it."
+Insight: The phrase "shit outta luck" is raw defeatism. This person didn't just feel disappointed — they felt abandoned by the system of advice they trusted. The casual profanity signals genuine frustration breaking through the surface.
+- "finding out the red spots I have all over my face may never go away without expensive laser treatments is pretty disheartening."
+Insight: Two compounding pain points in one sentence — the permanence fear ("may never go away") and the financial barrier ("expensive laser treatments"). This person is trapped between a problem they can't fix and solutions they can't afford.
+- "I had that for the last 6 years and didn't get much better, tried everything, all creams, serums, lasers etc. I guess we have to live with that."
+Insight: Six years of effort collapsing into resignation — "I guess we have to live with that" — is one of the most emotionally telling phrases in the data. This isn't someone who gave up quickly. This is someone who fought hard and still lost. The collective "we" signals shared suffering and a search for community in defeat.
+- "I have PIE, and I feel like I have the worst case in the world."
+Insight: Hyperbole as emotional truth. This person isn't literally claiming the worst case — they're expressing profound isolation in their suffering, as if no one else could possibly understand the severity of what they're dealing with.
+- "it has been really stagnant for about a month"
+Insight: A plateau after visible progress is psychologically devastating — it robs someone of momentum and hope simultaneously. The word "stagnant" reveals how deeply they're monitoring and tracking their skin, and how much emotional weight rests on those incremental changes.
+- "at least before I felt like I was doing something helpful, now it just feels a little hopeless."
+Insight: CORE INSIGHT. The illusion of progress was emotionally protective. Being informed — being given accurate information — actually made this person feel worse. This is a crucial psychological insight: for some avatars, hope is more valuable than accuracy, until they find a real solution.
 
 ## Day-to-Day Struggles
 - "It's just annoying putting on foundation to go out anywhere ☹️"
@@ -49,6 +63,14 @@ Insight: The timeline here — one year for a single burn — communicates how d
 Insight: The avatar lives with daily behavioral guilt. Every moment of picking is followed by months of visible consequence — their skin is a physical record of their worst impulses, making it impossible to move on.
 - "had a sudden breakout this month before my period and i'm so annoyed with all the dark spots left underneath the skin LOL"
 Insight: The casual "LOL" masked by genuine annoyance shows how normalized yet persistently frustrating this is. The avatar laughs it off publicly but is clearly bothered — hormonal cycles mean this struggle is monthly and unavoidable.
+- "stubborn PIE & PIH" (post title from u/Connect_Horse8035)
+Insight: The word "stubborn" is deceptively loaded. It implies they've been fighting this battle for a long time, trying repeatedly, and the marks simply refuse to yield. It's not just a skin condition — it reads like an adversary.
+- "I've used all the products that are typically recommended for PIH, and they worked on all my PIH spots EXCEPT that one PIE spot. now it all makes sense."
+Insight: Months of misidentification led to months of misdirected effort. The "now it all makes sense" is a relief mixed with frustration — they finally have clarity, but the journey to get there was wasted time and money.
+- "I don't tolerate well niacinamide on my forehead otherwise my skin isn't too sensitive."
+Insight: Even within their treatment attempts, they face individual skin sensitivity complications — a daily reminder that there's no simple, universal fix. Their skin itself is part of the obstacle.
+- "PIH have faded much more than the PIE (they've stubbornly resisted tretinoin, niacinamide, BHA, AHA, Vit C, etc)"
+Insight: CORE INSIGHT. The laundry list of failed treatments — tretinoin, niacinamide, BHA, AHA, Vit C — reads like a defeated soldier listing every weapon they tried. The repetition of "stubbornly resisted" reinforces that this isn't passive waiting; it's active, losing warfare against their own skin.
 
 ## Victories
 - "They have gone COMPLETELY! ...You can't even tell where the previous scars were or that I ever had them to begin with. I've gotten so many compliments, especially from family, thinking I have makeup on and I don't. It's been so great!"
@@ -70,6 +92,14 @@ Insight: Cutting the timeline in half feels like a massive win to this avatar. T
 Insight: The phrase "I cannot recommend it enough" signals near-evangelical loyalty when a product genuinely works. The avatar wants to share victories because they know the community is full of people who are desperate for what they've found.
 - "New breakouts don't darken anymore when I use this. Old ones took time, but they definitely faded in a couple of months."
 Insight: Prevention of new dark spots is just as exciting as fading existing ones — possibly more so. The avatar's victory here is reclaiming control over a cycle they previously felt powerless against.
+- "TIL that I have PIE and not PIH, but AHAs and retinoids are helping tremendously with it. I did a Korres AHA mask a few weeks ago and it made a HUGE difference."
+Insight: CORE INSIGHT. The all-caps "HUGE" is emotionally significant — this is someone who had been ground down by failure and was genuinely surprised by results. The win here is as much psychological (renewed hope) as physical (visible fading).
+- "I made noticeable progress within a couple weeks using vitamin C and lactic acid."
+Insight: "Noticeable progress within a couple weeks" is a meaningful milestone for someone used to months of stagnation. Speed of results matters enormously to this avatar — they've been patient for too long already.
+- "using AHAs and BHAs have reduced the severity of my PIE, just by reducing the number of breakouts I was getting. Now I get a couple a month, instead of a couple every day, so my skin has a chance to heal and fade."
+Insight: This person found victory not by directly attacking PIE, but by changing the source. The logic — fewer breakouts = fewer new PIE marks = skin can finally heal — represents a strategic shift that gave them a sense of agency and control.
+- "my progress from October to now has been great"
+Insight: Even in a post asking for help, this avatar acknowledges visible improvement. They're not all the way there, but they've already demonstrated to themselves that progress is possible — which is why the plateau is so frustrating rather than expected.
 
 ## Failures
 - "I tried using The Ordinary Peeling Solution for about a month, but I didn't see any noticeable results."
@@ -95,6 +125,14 @@ Insight: Some avatars have reached the conclusion that OTC products are fundamen
 Insight: Diligence without results is the most demoralizing failure. The avatar followed the rules — consistency, daily use — and still didn't win. This particular failure creates the deepest doubt because it removes the "I probably wasn't consistent enough" excuse.
 - "I've seen a dermatologist and was only prescribed a steroid for the bumps but nothing for the dark spots."
 Insight: Even professional medical guidance has let this avatar down. When the system they're supposed to trust fails to address their core concern, it deepens frustration and pushes them toward community-sourced solutions — and ultimately toward any product that promises to fill that gap.
+- "I ran out and got an AHA gel hoping it would fade my scars and was super disappointed when it did nothing."
+Insight: The action was motivated by hope ("hoping"), the outcome was emotional deflation ("super disappointed"). This is the classic cycle this avatar lives in: find advice → buy product → apply consistently → see no results → feel worse than before.
+- "tried everything, all creams, serums, lasers etc. I guess we have to live with that."
+Insight: CORE INSIGHT. The word "everything" carries enormous weight. This person isn't someone who hasn't tried — they've exhausted the entire known spectrum of solutions, including professional treatments, and still arrived at resignation.
+- "they've stubbornly resisted tretinoin, niacinamide, BHA, AHA, Vit C, etc"
+Insight: Each product on this list represents an investment of money, time, hope, and routine disruption. The collective failure of all of them doesn't just mean the skin didn't improve — it means this person's trust in skincare advice has been systematically eroded.
+- "When I was NOT into skincare and had no clue about what I was doing I used to use lemon juice on my face 2 times a day for like a year."
+Insight: This reveals a failure from the opposite direction — not informed effort gone wrong, but uninformed effort that somehow worked. This person's journey began in naivety, wandered through misinformation, and is now struggling to find reliable truth.
 
 ## Goals
 - "My goals are for my acne scars to completely go away, as my acne is mostly under control now."
@@ -114,6 +152,14 @@ Insight: The underlying goal is to find a clear decision framework. With so many
 Insight: The avatar's goal isn't just to fade existing spots — it's to break the cycle entirely. They want a future where they stop generating new dark spots, not just a solution for the backlog they've already accumulated.
 - "What am I missing or doing wrong or am I just being impatient?"
 Insight: Beneath the product questions is a deeply human goal: to be told they are not failing. The avatar wants reassurance that they're on the right track — they want to feel competent, not foolish, in managing their own skin.
+- "I would love some advice on how to improve my routine for better results or if it needs some adjustments."
+Insight: The phrasing "would love" signals a gentle, almost cautious optimism — they want improvement but have been disappointed enough times that they're managing their own expectations carefully.
+- "is it normal for PIE to plateau like this?"
+Insight: This question is really asking: "Am I failing, or is this normal?" The underlying goal isn't just product advice — it's emotional reassurance that they're still on the right path and haven't wasted their effort.
+- "I want to say something like a few months to maybe a year? I'm not entirely sure how long it typically takes"
+Insight: The goal here is a timeline — this avatar desperately wants to know there is an *end point*. Not knowing when something will resolve is psychologically exhausting. A clear finish line would transform endurance into something bearable.
+- "Definitely gonna look into laser"
+Insight: When topical treatments consistently fail, this avatar shifts their goal toward professional intervention — even with the associated cost and risk. The willingness to escalate reveals how significant the problem is to their quality of life.
 
 ## Beliefs
 - "Of course, there is little research on this subject because who wants to fund a study which shows skin might heal on its own, when the treatments are highly lucrative?"
@@ -137,6 +183,14 @@ Insight: There's a growing (but not universal) belief among this community that 
 Insight: CORE INSIGHT — A growing segment believes that topical OTC solutions are fundamentally incapable of solving their problem. This belief makes them skeptical of new products and primes them to be more receptive to clinical-grade or prescription-strength claims.
 - "you're not missing anything, this stuff just takes way longer than we want it to."
 Insight: Many in this community believe the problem isn't the product — it's patience. This creates a double-edged tension: they hold out hope that their current routine might work eventually, which paradoxically prevents them from committing to something new.
+- "I think we should be careful to clarify that if the marks are red (which they often are) they are likely PIE and won't respond much to over-the-counter treatment and you pretty much have to wait it out."
+Insight: This person has arrived at a hardened belief: topical, OTC treatments don't work for PIE. This belief will create strong resistance to product recommendations unless the product can credibly challenge this assumption.
+- "nothing can be done topically, it will go away naturally. You can speed up the process with laser treatments from the doc."
+Insight: CORE INSIGHT. This is a widely held belief in the community — that PIE is a waiting game, and real treatment requires expensive professional intervention. Any product claiming to work topically faces a skeptical audience already conditioned to dismiss such claims.
+- "I wouldn't inherently trust places with coupons on my face"
+Insight: Trust and quality perception are tightly linked for this avatar. They are protective of their skin — and their face specifically — and associate discounted services with risk. This belief extends to cheap or unknown skincare products.
+- "Concerned about it being done incorrectly/making it worse than I started"
+Insight: The fear of regression — of making things *worse* — is a core belief that paralyzes action. This avatar has already suffered through misguided treatments; the possibility of damage or setback weighs heavier than the possibility of improvement.
 
 ## Desires
 - "I want to stop covering my face with foundation just to go out anywhere... so I can feel free and comfortable in public... so I can stop feeling like my skin is something to hide."
@@ -160,6 +214,14 @@ Insight: I want to break free from the cycle of new spots forming… so I can st
 Insight: I want to find something my specific skin can tolerate and respond to… so I can stop cycling through things that don't work for me… so I can finally have a routine I trust and don't have to second-guess constantly.
 - "Numbuzin really helped fade old and new scars... I cannot recommend it enough!"
 Insight: I want to find my "thing" — that one product or routine that genuinely works for my skin… so I can become the person sharing the victory story… so I can help others the way I wished someone had helped me.
+- "finding out the red spots I have all over my face may never go away without expensive laser treatments is pretty disheartening."
+Insight: I want to finally have clear, even-toned skin… so I can stop feeling disheartened every time I look in the mirror… so I can move through my day without my skin being a constant source of emotional weight. The desire beneath the frustration is normalcy — skin that doesn't demand daily attention and emotional management.
+- "Wow, that's incredible... Definitely gonna look into laser"
+Insight: I want to find something that actually works… so I can feel the way this person feels seeing dramatic results… so I can experience that same "incredible" transformation and stop watching other people heal while I stay stuck.
+- "At least girls can wear makeup"
+Insight: I want a solution that works without requiring cover-up… so I can feel confident without needing to conceal something… so I can experience my face as something I'm proud of rather than something I have to manage and hide every single day. (Note: this quote also reveals that male users feel even more exposed, without the socially acceptable masking option.)
+- "it's like someone turned the healing on hyperdrive"
+Insight: I want to experience the feeling of rapid, visible healing… so I can feel like my skin is finally cooperating with me… so I can stop feeling like my body is working against me and start feeling like I've found the key that unlocks everything. The metaphor reveals a deep desire for acceleration — not slow, uncertain progress, but transformation they can *see* and *feel*.
 
 ## Objections
 - "I'm so scared that I'll have a negative reaction to the laser treatment for some reason! (probably just me being worried and getting in my own head)"
@@ -185,6 +247,14 @@ Insight: CORE INSIGHT — The avatar has been burned by time investment before. 
 Insight: A deeper objection is self-doubt disguised as a question. The avatar isn't sure if the problem is the product or themselves. They may resist committing to something new because they're afraid to fail again — and blame themselves for it.
 - "Go to a dermatologist if you can afford it."
 Insight: Cost and access are real objections. The phrase "if you can afford it" signals that professional treatment is aspirational, not realistic for everyone in this community. Any solution that is expensive, clinic-dependent, or inaccessible will be dismissed by a significant portion of this audience.
+- "I wouldn't inherently trust places with coupons on my face, but if it worked gives me hope"
+Insight: Price-cutting signals danger to this avatar. If a product or service is cheap, it feels unsafe. Any solution that doesn't convey quality and credibility will be dismissed before it's tried.
+- "I'm still skeptical about it... most of my marks start off red, then fade to brown, so they're more like PIH"
+Insight: This avatar will self-diagnose and use their own experience to invalidate general information. If a product claim doesn't align with their personal skin history, they'll reject it — not out of stubbornness, but out of learned self-reliance after being repeatedly given wrong advice.
+- "finding out the red spots I have all over my face may never go away without expensive laser treatments is pretty disheartening"
+Insight: CORE INSIGHT. The cost objection is real and reinforced by the belief that only expensive professional treatments work. A topical product must overcome not just skepticism but the entrenched narrative that affordable solutions simply don't work for PIE.
+- "Concerned about it being done incorrectly/making it worse than I started"
+Insight: The "make it worse" objection is a deeply personal fear rooted in past experience of misguided treatments. This avatar won't try something new unless they feel the risk of harm has been explicitly addressed and minimized.
 
 ## Level of Awareness
 Level: **Solution Aware** (with a significant segment at Product Aware)
@@ -203,6 +273,12 @@ Insight: This person already knows the landscape of solutions. They're not unawa
 Insight: This is classic Solution Aware behavior — they know the solutions, they're now seeking guidance on evaluation criteria. They are comparing options and need help narrowing down, not an introduction to the category.
 - "The only thing that has had real efficacy (aka being able to see any results under 6 months) is hydroquinone."
 Insight: Some avatars have already progressed to Product Aware — they've identified a specific ingredient or product class that works for them and are evaluating everything else against that benchmark.
+Level: Solution Aware (with pockets of Product Aware)
+Why: This avatar already knows they have PIE (or PIE/PIH combination). They understand the problem deeply — they can name it, distinguish it from PIH, explain why standard treatments don't work, and discuss specific ingredients like tretinoin, AHA, niacinamide, tranexamic acid, and azelaic acid. They are actively searching for *the right solution*, not just any solution. Some users have already tried specific products and treatments (entering Product Aware territory) but haven't found one that fully works.
+- "I'm currently dealing with PIE and a few PIH marks... it has been really stagnant for about a month. I would love some advice on how to improve my routine for better results."
+Insight: This person knows exactly what they have, knows what they've tried, and is specifically looking for a more effective or better-targeted solution — textbook Solution Aware behavior. They don't need to be educated on the problem; they need to be shown something better than what they already know.
+- "Later I learned the difference between PIE and PIH and that I'm basically shit outta luck when it comes to treating it."
+Insight: This quote captures the Solution Aware trap — they know what the problem is, they've researched solutions, but the solutions they've found are either inaccessible (laser) or ineffective (OTC products). They're Solution Aware but solution-starved.
 
 ## Emotions & Identity
 - "Your mind is your biggest challenge here. I know they can seem absently awful because to YOU they are."
@@ -228,6 +304,16 @@ Insight: There is a complex layer of shame here — shame about the spots themse
 Insight: Past-self blame is a recurring emotional undercurrent. The avatar carries guilt about what they should have done differently, which creates both motivation to act now and emotional weight that makes the current problem feel like deserved punishment rather than a fixable condition.
 - "I have acne from age 11. Now I'm 16."
 Insight: For younger avatars especially, this problem isn't separate from identity — it's grown up alongside them. Their self-image has been shaped during formative years by skin they couldn't control, which means clear skin represents not just aesthetics but a kind of personal liberation and self-reclamation.
+- "I have PIE, and I feel like I have the worst case in the world."
+Insight: Identity is being consumed by the skin condition. This isn't just about appearance — it's about feeling uniquely, intensely afflicted. There's an element of isolation and invisibility to the suffering ("no one else could possibly understand how bad this is") that points to a desire to be *seen* and validated.
+- "At least girls can wear makeup"
+Insight: For male sufferers, PIE strikes at a core vulnerability — they have no socially accepted mechanism for concealment, making their skin condition feel nakedly public. The identity wound here is one of exposure and helplessness in a space where women are perceived as having options they don't.
+- "it just feels a little hopeless"
+Insight: CORE INSIGHT. Hopelessness isn't just an emotion here — it's an identity state. After enough failed attempts, the avatar begins to identify *as* someone who can't be helped. This is the psychological core that a breakthrough product or message must disrupt: not just "here's what to buy" but "here's proof that you are not hopeless."
+- "Feel the need to just butt in here slightly and say not all pickers are 'to blame'. It's a genuine compulsion that a lot of people suffer from"
+Insight: There is shame woven into this community's experience of PIE — the unspoken narrative that they caused their own marks by picking. This person is defending themselves and others against that shame. Identity here is tangled up with guilt and the fear of being judged as the author of their own suffering.
+- "I watched a YouTube of a girl last night that made me actually weep for her."
+Insight: Empathy and shared suffering run deep in this community. Seeing someone else's struggle triggers genuine grief — which tells us that the emotional stakes of this problem are not shallow vanity but something much more human: the pain of feeling disfigured, judged, and unseen.
 
 ## Real Customer Language
 - "stubborn acne scars" — Why this phrase matters: "Stubborn" is one of the most repeated descriptors across the data. It personifies the scars as a willful opponent — something that *refuses* to respond. Copy that acknowledges the stubbornness of the problem will immediately resonate as "finally, someone who gets it."
@@ -245,6 +331,13 @@ Insight: For younger avatars especially, this problem isn't separate from identi
 - "constant cycle" — Why this phrase matters: This phrase captures the trapped, circular nature of the problem better than any single-issue framing. The avatar isn't just fighting spots — they're fighting a loop. Any solution that promises to break the cycle (not just treat existing spots) will speak directly to this emotional core.
 - "I've tried everything" — Why this phrase matters: CORE INSIGHT — This phrase signals both desperation and a history of failure. It's a gauntlet throw. Copy that acknowledges this — "If you feel like you've tried everything…" — will immediately stop the scroll of this exhausted, experienced avatar.
 - "impatient" — Why this phrase matters: The avatar questions their own patience repeatedly. This self-doubt is a vulnerability. Copy that reframes impatience as legitimate ("Your frustration isn't impatience — it's a reasonable response to a system that wasn't designed for skin like yours") will create emotional permission to try again.
+- "stubborn PIE" — Why this phrase matters: "Stubborn" is the single most emotionally loaded adjective in this data. It personifies the condition as something with will and resistance. Copy that mirrors this language ("finally, something that works on stubborn red marks") will land with instant recognition.
+- "shit outta luck" — Why this phrase matters: Raw, unfiltered frustration. This person has stopped searching for polite ways to describe their defeat. Language this casual and defeated reveals the depth of their exhaustion. Copy that acknowledges this level of despair ("if you've been told you just have to wait it out...") will immediately earn trust.
+- "it just feels a little hopeless" — Why this phrase matters: CORE INSIGHT. "A little hopeless" is understatement as emotional armor. They're trying to minimize their despair even as they express it. Copy should acknowledge the hopelessness without amplifying it — meeting them where they are before redirecting toward possibility.
+- "tried everything" — Why this phrase matters: CORE INSIGHT. This phrase is a door. When someone says they've tried everything, they're not closing themselves off — they're saying "I need something I haven't found yet." Copy that opens with "you haven't tried everything yet" or "most people with PIE are trying the wrong things" will stop the scroll.
+- "making it worse than I started" — Why this phrase matters: The fear of regression is a silent veto in every purchase decision this avatar makes. Copy must proactively disarm this fear with language around safety, gentleness, and risk-reversal ("designed to calm, not aggravate").
+- "all my PIE faded in the matter of a week (not even exaggerating)" — Why this phrase matters: The parenthetical "(not even exaggerating)" is gold. This avatar is so used to overpromised results that they feel the need to pre-defend their own true story against anticipated disbelief. Testimonial copy that includes this kind of self-aware qualifier will read as credible and authentic.
+- "now it all makes sense" — Why this phrase matters: This phrase signals a transformative moment of clarity — the "aha" moment when confusion is replaced by understanding. Copy that promises to give this avatar that same moment of clarity ("finally understand what's actually happening under your skin") will resonate at a deep cognitive and emotional level.
 
 ## Visual Cues
 - "thinking I have makeup on and I don't"
@@ -266,6 +359,12 @@ Insight: A timeline visual — showing a mark at month 1, month 6, month 12 — 
 Insight: The metaphor of a hamster wheel or revolving door — one spot fades while a new one forms — is a visual that would immediately trigger recognition and emotional resonance. Any visual that shows a pattern being broken, rather than just a single spot being treated, speaks to the avatar's real desire.
 - "Black skin loves to hang onto trauma"
 Insight: For darker-skinned avatars specifically, before/after imagery featuring their own skin tone is not just helpful — it's emotionally necessary. Seeing their own complexion represented in success stories is a visual cue that the product was made for them, not adapted for them as an afterthought.
+- "I attached some pictures... my progress from October to now has been great. However it has been really stagnant for about a month."
+Insight: Before/after photography is not just compelling to this avatar — it is the primary language of proof. They document their own skin, compare over time, and respond to others doing the same. Visual evidence of transformation is the highest-trust proof mechanism available in this market.
+- "I watched a YouTube of a girl last night that made me actually weep for her."
+Insight: Emotional video content — real people, real skin, real stories — breaks through this avatar's defenses in a way that product shots never could. The trigger is human connection and recognition ("that could be me"). Visual content showing struggle alongside transformation, not just the polished "after," will generate the deepest emotional response.
+- "I just did the pressure test and while some of the redness fades with pressure, there is a red ring that does not."
+Insight: The up-close, clinical self-examination — pressing glass to their own face, staring at individual spots — tells us this avatar lives in a state of intense visual hyper-focus on their skin. Visual content zoomed in on real, imperfect skin will feel more trustworthy than filtered, uniform "after" photography. Authenticity beats polish here.
 
 ## Trigger Moments
 - "I went through a horrible hormonal imbalance that ruined my skin. Prior to this, I always had clear glowy skin, never struggled with acne. I am turning 30 this December and this is my birthday gift I guess. =("
@@ -286,3 +385,11 @@ Insight: The transition from "fighting active acne" to "dealing with what acne l
 Insight: A single product misfire — a cleanser, a sunscreen, anything that caused unexpected breakouts — can trigger a months-long dark spot aftermath. This moment of "I did this to myself" guilt is a powerful trigger for seeking redemption through a product that can undo the damage.
 - "I just so damn tired of having these dark spots on my face."
 Insight: Emotional exhaustion is itself a trigger moment. There comes a point where the cumulative weight of months of failed attempts and visible marks tips the avatar from passive frustration into active, committed searching for a real solution. This is the moment they're most receptive — and most willing to invest.
+- "When I first starting lurking here I ran out and got an AHA gel hoping it would fade my scars and was super disappointed when it did nothing."
+Insight: The trigger was community discovery — finding a skincare forum for the first time and encountering advice that felt actionable. This avatar is pushed to purchase by the experience of *finally feeling understood and informed*. The moment they find a community that speaks their language, they take action.
+- "This along with the post that /u/kokomocat made are very informative... Definitely something to clarify!"
+Insight: Educational content — a post that correctly names and explains their condition — is a trigger event. When this avatar learns something that reframes their problem and offers new direction, they are primed to act. The trigger isn't desperation; it's the relief of finally having the right information.
+- "I've had huge nodular acne from wearing a mask last month and you wouldn't even be able to tell after 4 weeks."
+Insight: Hearing a specific, credible, detailed success story from someone with a comparable skin history acts as a powerful trigger. The specificity ("huge nodular acne," "4 weeks") makes the result feel real and attainable rather than generic. This avatar moves toward purchase when they encounter proof that maps onto their own experience.
+- "I have that too :( Thanks for the info!"
+Insight: Recognition — the moment of "me too" — is a trigger. When this avatar discovers they are not alone, that their exact experience has a name and someone else has walked through it, they shift from passive spectator to active seeker. The emotional release of recognition is the starting gun for their purchase journey.
